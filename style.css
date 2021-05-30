@@ -1,0 +1,42 @@
+html,body{
+    height: 100%;
+    background-color: black;
+}
+
+#mynetwork{
+    width: 50%;
+    height: 100%;
+    border: 1px solid lightgray;
+}
+
+#container2{
+    width: 50%;
+    height:100%;
+    border: 1px solid lightgray;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;    background-color: black;
+}
+#mynetwork2{
+    width: 100%;
+    height: 100%;
+}
+#container{
+    width: 100%;
+    height: 70%;
+    background-color: white;
+    display: flex;
+    background-color: black;
+    margin: 0 auto;
+}  
+#generate-graph{
+    margin: auto;
+    display: block;
+}
+#solve{
+    margin: auto;
+    display: block;
+}
+#temptext,#temptext2{
+    color: white;
+}
